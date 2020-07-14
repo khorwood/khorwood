@@ -1,4 +1,9 @@
-### Hi there 👋
+👋 Hi, I'm Kristian.
+
+I'm a software developer and specialize in information security, helping to protect myself and others.
+
+- 🛠 I currently mainly use C#, JavaScript, PowerShell, and shell scripting
+- 🌱 I’m continuously learning
 
 <!--
 **khorwood/khorwood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
