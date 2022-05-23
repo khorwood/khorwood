@@ -2,10 +2,11 @@
 
 I'm a software developer and specialize in information security, helping to protect myself and others.
 
-- 🛠 I currently mainly use C#, JavaScript, PowerShell, and shell scripting
-- 🌱 I’m continuously learning
+- 🔭 I’m currently working on Application and Cloud security in the EdTech field
+- 🌱 I’m always learning
+- 📫 How to reach me: Email
+- 🔑 My public key: https://keys.openpgp.org/vks/v1/by-fingerprint/798D3B7B2167AF70E12CE39ADE1AA7D71F7C81FD
 
-My GPG public key: https://keys.openpgp.org/vks/v1/by-fingerprint/798D3B7B2167AF70E12CE39ADE1AA7D71F7C81FD
 <!--
 **khorwood/khorwood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
