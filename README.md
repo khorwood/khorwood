@@ -4,8 +4,11 @@ I'm a software developer and specialize in information security, helping to prot
 
 - 🔭 I’m currently working on Application and Cloud security in the EdTech field
 - 🌱 I’m always learning
-- 📫 How to reach me: Email
-- 🔑 My public key: https://keys.openpgp.org/vks/v1/by-fingerprint/798D3B7B2167AF70E12CE39ADE1AA7D71F7C81FD
+- 💬 Ask me about: information security: (application, cloud, corporate, etc...), software development, aviation
+- 📫 How to reach me: email
+- 🔑 My GPG public key:
+  - https://github.com/khorwood.gpg
+  - https://keys.openpgp.org/vks/v1/by-fingerprint/798D3B7B2167AF70E12CE39ADE1AA7D71F7C81FD
 
 <!--
 **khorwood/khorwood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
